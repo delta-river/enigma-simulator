@@ -12,7 +12,9 @@
 
 `SET` set initial setting for rotors, reflector and plugboard.
 
-`RESET` reset count. initial setting will not be changed.
+`RESET` reset count. setting will not be changed.
+
+`INFO` print initial setting and status of plugboard, rotors and reflector.
 
 `QUIT` quit.
 
