@@ -294,11 +294,11 @@ void set(Enigma &enigma){
 	int s;
 	vector<pair<char, char>> v;
 
-	cout << "right rotor: seed, position\n";
+	cout << "right rotor: seed, offset\n";
 	cin >> r.first >> r.second;
-	cout << "middle rotor: seed, position\n";
+	cout << "middle rotor: seed, offset\n";
 	cin >> m.first >> m.second;
-	cout << "left rotor: seed, position\n";
+	cout << "left rotor: seed, offset\n";
 	cin >> l.first >> l.second;
 	cout << "reflector: seeed\n";
 	cin >> s;
